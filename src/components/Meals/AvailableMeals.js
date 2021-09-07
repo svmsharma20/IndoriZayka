@@ -5,27 +5,27 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Poha",
+    name: "Indori Poha",
     description:
       "When life gives you lemon, Get you poha plate and squeeze over it",
     price: 15.0,
   },
   {
     id: "m2",
-    name: "Samosa",
+    name: "Inder K Samose",
     description: "Indori love triangle",
     price: 13.0,
   },
   {
     id: "m3",
-    name: "Jalebi",
+    name: "Dudh Jalebi",
     description:
       "You can't buy happiness, But you can buy Jalebi and thats kinda the same",
     price: 30.0,
   },
   {
     id: "m4",
-    name: "Namkeen Sev",
+    name: "Ratan K Namkeen",
     description: "Not putting sev in everything, But putting everything in sev",
     price: 50.0,
   },

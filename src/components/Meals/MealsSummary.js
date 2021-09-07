@@ -10,7 +10,7 @@ const MealsSummary = () => {
       </p>
       <p>
         Choose your favorite meal from list of the best Indore street food
-        delights and enjoy it with your family.
+        delights and make MOMOeries.
       </p>
     </section>
   );

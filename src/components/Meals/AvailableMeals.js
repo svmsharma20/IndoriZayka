@@ -7,7 +7,7 @@ const DUMMY_MEALS = [
     id: "m1",
     name: "Indori Poha",
     description:
-      "When life gives you lemon, Get you poha plate and squeeze over it",
+      "When life gives you lemon, Get you a poha plate and squeeze over it",
     price: 15.0,
   },
   {

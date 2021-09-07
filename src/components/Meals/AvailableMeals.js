@@ -31,7 +31,7 @@ const DUMMY_MEALS = [
   },
   {
     id: "m5",
-    name: "Hot Dog",
+    name: "Johnny Hot Dog",
     description: "You can't satisfy everyone, You are not Johnny hot dog",
     price: 25.0,
   },
